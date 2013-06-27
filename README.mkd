@@ -1,0 +1,27 @@
+Learning HTML
+=============
+
+Mess around with HTML
+
+Motivation
+----------
+
+I decided to quickly crap out alphas for [DeadDork](deaddork.com), [Code Docs Codex](codedocscodex.org), and [Coding by Example](https://github.com/DeadDork/coding-by-example), and figured that the best way to do that is via GitHub, and in particular GitHub Pages.
+
+After messing around for a couple of days, I realize that no matter my dislike for web dev, I need to know a modicum of HTML, CSS, and JavaScript if I want to build these verkakte projects.
+
+As such, I have decided to work through the [Mozilla Developer Network](https://developer.mozilla.org/) guides on these topics.
+
+Organization
+------------
+
+Pretty much:
+
+*	__Problem-Sets__ Do the problem sets in the MDN docs.
+
+*	__Experiments__ Follow up with any questions I have in this directory.
+
+Nota Bene
+---------
+
+This repo is absurdly useless.
