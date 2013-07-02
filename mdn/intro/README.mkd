@@ -1,0 +1,14 @@
+Introduction to HTML
+====================
+
+A very short introduction to HTML.
+
+Origin
+------
+
+You can find the original documentation [here](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction).
+
+N.B.
+----
+
+This document is pretty much useless. Still, it gave me a chance to shit out a beginner markup page.
