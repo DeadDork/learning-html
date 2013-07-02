@@ -1,7 +1,7 @@
 Learning HTML
 =============
 
-Mess around with HTML
+Learn me some HTML
 
 Motivation
 ----------
@@ -10,16 +10,18 @@ I decided to quickly crap out alphas for [DeadDork](deaddork.com), [Code Docs Co
 
 After messing around for a couple of days, I realize that no matter my dislike for web dev, I need to know a modicum of HTML, CSS, and JavaScript if I want to build these verkakte projects.
 
-As such, I have decided to work through the [Mozilla Developer Network](https://developer.mozilla.org/) guides on these topics.
+As such, I have decided to work through some docs (e.g. the [Mozilla Developer Network](https://developer.mozilla.org/)).
+
+This repo houses my hasty introduction to HTML.
 
 Organization
 ------------
 
 Pretty much:
 
-*	__Problem-Sets__ Do the problem sets in the MDN docs.
+*	__docs__ Do interesting problem sets in documentation (e.g. MDN).
 
-*	__Experiments__ Follow up with any questions I have in this directory.
+*	__experiments__ Follow up with any questions I have in this directory.
 
 Nota Bene
 ---------
